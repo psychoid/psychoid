@@ -1,6 +1,8 @@
-### Hi👋
+### Hi, this is my repo for study files👋
 
 ![me](tty.gif)
+
+- 🌱 I’m currently learning  for the DCPT certification (desecsecurity.com) and CHE (eccouncil.org).
 
 <!--
 **psychoid/psychoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
